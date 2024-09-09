@@ -1,0 +1,13 @@
+{
+	"name": "@myscope/mywasm",
+	"version": "1.0.0",
+	"description": "JavaScript front-end for MyWasm",
+	"main": "./MyWasm.min.js",
+	"module": "./MyWasm.min.js",
+    "types": "MyWasm.d.mts",
+	"files": [
+		"./MyWasm.min.js"
+	],
+	"license": "SEE LICENSE IN License.md",
+	"author": "This is only a test"
+}

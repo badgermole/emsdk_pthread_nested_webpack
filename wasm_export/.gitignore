@@ -1,0 +1,12 @@
+.cov/
+.vs/
+bin/
+bin_pt/
+build/
+build_pt/
+dist/
+node_modules/
+Temp/
+tmp/
+x64/
+*.user

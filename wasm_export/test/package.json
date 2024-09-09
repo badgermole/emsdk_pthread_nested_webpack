@@ -1,0 +1,18 @@
+{
+  "name": "wasm_export_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+    "type": "module",
+  "scripts": {
+    "setup": "npm install"
+  },
+  "license": "SEE LICENSE IN License.md",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "buffer-backed-object": "^1.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "@myscope/mywasm": "file:../dist/dev_pt"
+}
+}

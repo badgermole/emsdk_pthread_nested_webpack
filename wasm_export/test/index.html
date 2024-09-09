@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My App</title>
+    <script type="importmap">
+        {
+            "imports": {
+                "mywasm": "/node_modules/@myscope/mywasm/MyWasm.min.js"
+            }
+        }
+    </script>
+</head>
+<body>
+    <script type="module">
+        import init from './app.mjs';
+
+        init();
+
+    </script>
+</body>
+</html>

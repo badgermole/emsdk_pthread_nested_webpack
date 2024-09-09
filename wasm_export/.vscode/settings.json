@@ -1,0 +1,20 @@
+{
+	"search.exclude": {
+		"dist/*": true,
+		"bin*/*": true
+	},
+	"editor.formatOnSave": false,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": true,
+	"editor.tabSize": 4,
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": true,
+	"javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+	"javascript.format.placeOpenBraceOnNewLineForControlBlocks": false,
+	"javascript.format.placeOpenBraceOnNewLineForFunctions": false,
+	"javascript.format.enable": true,
+	"javascript.validate.enable": true
+}
